@@ -1,5 +1,5 @@
 ubuntu 
 apt install python3-pip
-pip3 -V
-root@jack-ubuntu:~# pip3 -V
+pip3 --version
+root@jack-ubuntu:~# pip3 --version
 pip 8.1.1 from /usr/lib/python3/dist-packages (python 3.5)
